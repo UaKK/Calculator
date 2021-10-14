@@ -1,5 +1,4 @@
 from tkinter import *
-import maths
 
 root = Tk()
 root.title('Recap')
